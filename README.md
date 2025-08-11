@@ -24,4 +24,4 @@ This Dashboard aim at giving insight of annual sales report from 2015-2022. So t
 ## Dashboard
 
 <img width="932" height="314" alt="Sale Dashboard" src="https://github.com/user-attachments/assets/fa774111-06f7-4dbc-b29e-5bd26910aae1" />
- (https://github.com/AuduMoses1/SalesDataCleaningProject./blob/master/Sale%20Dashboard.png)
+
