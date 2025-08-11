@@ -15,9 +15,6 @@ This Dashboard aim at giving insight of annual sales report from 2015-2022. So t
 - Sales Trend Overtime?
 - Which Channel is contributing maximum to the sales?
 
-## Dashboard
-![] (https://github.com/AuduMoses1/SalesDataCleaningProject./blob/master/Sale%20Dashboard.png)
-
 ## Process
 - Verify data for any missing values and anomalies, and sort out the same.
 - Made sure data is consistent and clean with respect to data type, data format and values used.
@@ -25,4 +22,6 @@ This Dashboard aim at giving insight of annual sales report from 2015-2022. So t
 - Merge all pivot tables into one dashboard and apply slicer to make
 
 ## Dashboard
-C:\Users\Dell\Documents\MyExcelProject\Sale Dashboard.png (https://github.com/AuduMoses1/SalesDataCleaningProject./blob/master/Sale%20Dashboard.png)
+
+<img width="932" height="314" alt="Sale Dashboard" src="https://github.com/user-attachments/assets/fa774111-06f7-4dbc-b29e-5bd26910aae1" />
+ (https://github.com/AuduMoses1/SalesDataCleaningProject./blob/master/Sale%20Dashboard.png)
